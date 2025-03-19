@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c# basic template", "c# basic template.csproj", "{0A18C184-2A7E-4412-A66C-621B8BA0B32D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance_exercise", "inheritance_exercise.csproj", "{0A18C184-2A7E-4412-A66C-621B8BA0B32D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

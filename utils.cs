@@ -1,7 +1,7 @@
 using System;
 
 
-namespace MainProgram
+namespace inheritance_exercise
 {
     class Utils
     {
