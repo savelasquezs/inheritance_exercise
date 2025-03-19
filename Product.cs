@@ -2,7 +2,7 @@
 
 namespace inheritance_exercise
 {
-    class Product
+   public class Product
     {
         private string _name;
         private double _price;
